@@ -17,7 +17,7 @@ A super simple WordPress plugin that displays a live ticker for 5 popular crypto
 
 ## Installation
 
-1. Copy the plugin folder to `wp-content/plugins/`.
+1. Copy the plugin folder crypto-ticker-plugin to `wp-content/plugins/`.
 2. Activate the plugin in the WordPress admin panel.
 3. The crypto ticker will be displayed in the footer of your website.
 
